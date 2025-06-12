@@ -1,5 +1,7 @@
 ﻿using System;
 
+// Komplettering för pull request
+
 namespace Calculator
 {
     internal class Program
